@@ -1,2 +1,2 @@
-# quantum-dot
-Simulations using simple and double quantum dots implemented in heat engines to represent the Thermodynamic Uncertainty Relation (TUR) in those systems.
+# COHERENT QUANTUM SYSTEMS OUT OF EQUILIBRIUM: THERMODYNAMIC BOUNDS AND TRADE-OFFS
+This repository contains the Python code developed for the bachelor's thesis "Quantum Thermodynamics and Transport in Nanostructures". The project explores charge and heat transport in quantum coherent systems using the scattering matrix formalism, with a particular focus on thermodynamic uncertainty relations (TURs).
