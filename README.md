@@ -20,8 +20,11 @@ Run the Python notebooks or scripts in the respective folders. Make sure to inst
 ## Author
 
 Paula Cáceres
+
 University of the Balearic Islands
+
 Degree in Physics
+
 Email: [paula.caceres1@estudiant.uib.eu](mailto:paula.caceres1@estudiant.uib.eu)
 
 ## Citation
