@@ -10,7 +10,7 @@ The project was developed as part of a Bachelor's thesis in Physics, and all com
 
 * **Quantum Dot:** Numerical evaluation of current, noise, and TUR.
 * **Double Quantum Dot (DQD):** Transmission function analysis, current and heat calculations, and TUR behavior as a function of inter-dot coupling.
-* **Sommerfeld Expansions:** Low-temperature analytical approximations of transport quantities.
+* **Sommerfeld Expansions:** Small voltage analytical approximations of transport quantities.
 * **Plots and Scripts:** Code for generating all figures used in the thesis.
 
 ## Usage
